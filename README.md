@@ -8,4 +8,4 @@ TypeScript
 ## Start 
 
 to compile file:
-tsx app.ts
+tsc app.ts
